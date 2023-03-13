@@ -29,7 +29,6 @@ public class Country {
                 description TEXT
             );
 
-
             CREATE TABLE {{table_name}} (
                 {{column_name}}, {{column_type}}, {{column_modifiers}},
                 ...
